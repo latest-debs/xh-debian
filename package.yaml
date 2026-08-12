@@ -1,0 +1,8 @@
+# Package definition for xh
+
+package_name: xh
+github_repo: ducaale/xh
+artifact_format: tar.gz
+description: "Friendly and fast tool for sending HTTP requests"
+
+# Build for all Debian suites and all supported architectures.
