@@ -2,6 +2,7 @@
 
 package_name: xh
 github_repo: ducaale/xh
+license: MIT
 artifact_format: tar.gz
 description: "Friendly and fast tool for sending HTTP requests"
 
